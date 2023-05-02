@@ -1,0 +1,14 @@
+train: ./bdd10k/Data/train
+val: ./bdd10k/Data/val
+nc: 9
+names: ["bike",
+    	  "bus",
+        "car",
+        "motor",
+        "person",
+        "rider",
+        "traffic light",
+        "traffic sign",
+        "train",
+        "truck"
+]
